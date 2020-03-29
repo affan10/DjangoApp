@@ -1,4 +1,4 @@
-Django Polls App - Django v3.0.4 on Python v3.7.4
+# Django Polls App - Django v3.0.4 on Python v3.7.4
 
 This repository was created as part of the course "A Beginners Guide to Django!" on Udemy by Avinash Jain. The course was centered around getting started with Django and its various concepts. Concepts covered as part of this tutorial include:
 
